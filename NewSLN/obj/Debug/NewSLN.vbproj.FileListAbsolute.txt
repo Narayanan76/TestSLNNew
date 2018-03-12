@@ -1,0 +1,10 @@
+C:\Temp\NewSLN\NewSLN\NewSLN\bin\Debug\NewSLN.exe.config
+C:\Temp\NewSLN\NewSLN\NewSLN\bin\Debug\NewSLN.exe
+C:\Temp\NewSLN\NewSLN\NewSLN\bin\Debug\NewSLN.pdb
+C:\Temp\NewSLN\NewSLN\NewSLN\bin\Debug\NewSLN.xml
+C:\Temp\NewSLN\NewSLN\NewSLN\obj\Debug\NewSLN.Form1.resources
+C:\Temp\NewSLN\NewSLN\NewSLN\obj\Debug\NewSLN.Resources.resources
+C:\Temp\NewSLN\NewSLN\NewSLN\obj\Debug\NewSLN.vbproj.GenerateResource.Cache
+C:\Temp\NewSLN\NewSLN\NewSLN\obj\Debug\NewSLN.exe
+C:\Temp\NewSLN\NewSLN\NewSLN\obj\Debug\NewSLN.xml
+C:\Temp\NewSLN\NewSLN\NewSLN\obj\Debug\NewSLN.pdb
